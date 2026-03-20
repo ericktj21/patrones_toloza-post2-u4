@@ -1,0 +1,35 @@
+# Sistema de Pedidos y Descuentos - Patrones de Comportamiento
+
+Este proyecto es la implementación de un sistema de notificaciones basado en eventos de pedido y un motor de descuentos con algoritmos intercambiables, desarrollado con Spring Boot.
+
+## Patrones de Diseño Aplicados
+
+Para la solución de este proyecto se implementaron los siguientes patrones de comportamiento:
+
+* **Observer (Observador):** Se utilizó el mecanismo de *Application Events* nativo de Spring. Esto permite que el sistema notifique automáticamente a diferentes componentes (observadores) cuando ocurre un cambio en el estado de un pedido, manteniendo el código desacoplado.
+* **Strategy (Estrategia):** Se implementó mediante la inyección de listas de interfaces con la anotación `@Service`. Esto permite que el motor de descuentos seleccione e intercambie dinámicamente el algoritmo de descuento aplicable en tiempo de ejecución según las reglas de negocio.
+
+## Instrucciones de Ejecución
+
+Para construir, probar y ejecutar este proyecto, asegúrate de tener instalado Java y Maven. Abre una terminal en la raíz del proyecto y utiliza los siguientes comandos:
+
+1.  **Ejecutar las pruebas unitarias:**
+    ```bash
+    mvn test
+    ```
+
+2.  **Construir y empaquetar el proyecto:**
+    ```bash
+    mvn clean package
+    ```
+
+3.  **Ejecutar la aplicación:**
+    ```bash
+    mvn spring-boot:run
+    ```
+
+## Evidencia de Ejecución
+
+A continuación se presenta la captura de la salida de consola validando el funcionamiento del sistema:
+
+![Captura de ejecución en consola](src/imagen.png)

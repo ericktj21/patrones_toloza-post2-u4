@@ -1,0 +1,13 @@
+com\universidad\pedidos\modelo\Pedido.class
+com\universidad\pedidos\strategy\DescuentoTemporada.class
+com\universidad\pedidos\PedidosApplication.class
+com\universidad\pedidos\observer\PedidoCanceladoEvent.class
+com\universidad\pedidos\strategy\CarritoService.class
+com\universidad\pedidos\strategy\DescuentoCupon.class
+com\universidad\pedidos\strategy\EstrategiaDescuento.class
+com\universidad\pedidos\observer\InventarioUpdater.class
+com\universidad\pedidos\observer\EmailNotifier.class
+com\universidad\pedidos\observer\AuditoriaLogger.class
+com\universidad\pedidos\strategy\DescuentoVIP.class
+com\universidad\pedidos\observer\PedidoConfirmadoEvent.class
+com\universidad\pedidos\observer\GestorPedidosService.class

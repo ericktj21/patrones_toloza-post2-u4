@@ -1,0 +1,13 @@
+C:\Users\ERICK\Desktop\Patrones\Unidad 4\toloza-post2-u4\src\main\java\com\universidad\pedidos\observer\PedidoConfirmadoEvent.java
+C:\Users\ERICK\Desktop\Patrones\Unidad 4\toloza-post2-u4\src\main\java\com\universidad\pedidos\observer\InventarioUpdater.java
+C:\Users\ERICK\Desktop\Patrones\Unidad 4\toloza-post2-u4\src\main\java\com\universidad\pedidos\observer\AuditoriaLogger.java
+C:\Users\ERICK\Desktop\Patrones\Unidad 4\toloza-post2-u4\src\main\java\com\universidad\pedidos\PedidosApplication.java
+C:\Users\ERICK\Desktop\Patrones\Unidad 4\toloza-post2-u4\src\main\java\com\universidad\pedidos\strategy\CarritoService.java
+C:\Users\ERICK\Desktop\Patrones\Unidad 4\toloza-post2-u4\src\main\java\com\universidad\pedidos\strategy\DescuentoVIP.java
+C:\Users\ERICK\Desktop\Patrones\Unidad 4\toloza-post2-u4\src\main\java\com\universidad\pedidos\strategy\DescuentoTemporada.java
+C:\Users\ERICK\Desktop\Patrones\Unidad 4\toloza-post2-u4\src\main\java\com\universidad\pedidos\strategy\EstrategiaDescuento.java
+C:\Users\ERICK\Desktop\Patrones\Unidad 4\toloza-post2-u4\src\main\java\com\universidad\pedidos\observer\PedidoCanceladoEvent.java
+C:\Users\ERICK\Desktop\Patrones\Unidad 4\toloza-post2-u4\src\main\java\com\universidad\pedidos\modelo\Pedido.java
+C:\Users\ERICK\Desktop\Patrones\Unidad 4\toloza-post2-u4\src\main\java\com\universidad\pedidos\observer\EmailNotifier.java
+C:\Users\ERICK\Desktop\Patrones\Unidad 4\toloza-post2-u4\src\main\java\com\universidad\pedidos\strategy\DescuentoCupon.java
+C:\Users\ERICK\Desktop\Patrones\Unidad 4\toloza-post2-u4\src\main\java\com\universidad\pedidos\observer\GestorPedidosService.java

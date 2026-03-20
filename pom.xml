@@ -17,7 +17,7 @@
     <version>1.0.0</version>
     <packaging>jar</packaging>
 
-    <name>Patrones de Diseño - Observer & Strategy</name>
+    <name>Patrones de Diseño - Observer y Strategy</name>
     <description>Implementación de Observer y Strategy en Spring Boot</description>
 
     <properties>
